@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Projects</h3>
 
-[ReacType](https://github.com/open-source-labs/ReacType)
+- [ReacType](https://github.com/open-source-labs/ReacType)
 
-[Flashcard App](https://github.com/Flashcard-Dev/Flashcard-App)
+- [Flashcard App](https://github.com/Flashcard-Dev/Flashcard-App)
 
-[Grocery Express](https://github.com/Eliza612/GroceryExpress)
+- [Grocery Express](https://github.com/Eliza612/GroceryExpress)
