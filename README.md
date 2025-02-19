@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eliza612&label=Profile%20views&color=0e75b6&style=flat" alt="Eliza612" /> </p>
 
-
 🌱 Websites:
 
-* [Linkedin](https://www.linkedin.com/in/yameng-zhang612/)
+- [Linkedin](https://www.linkedin.com/in/yameng-zhang612/)
 
-* [GitHub](https://github.com/Eliza612)
-
+- [GitHub](https://github.com/Eliza612)
 
 <h3 align="left">Languages</h3>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,3 +55,11 @@ Here are some ideas to get you started:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<h3 align="left">Projects</h3>
+
+[ReacType](https://github.com/open-source-labs/ReacType)
+
+[Flashcard App](https://github.com/Flashcard-Dev/Flashcard-App)
+
+[Grocery Express](https://github.com/Eliza612/GroceryExpress)
